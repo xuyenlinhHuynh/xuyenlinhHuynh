@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Xuyen Linh Huynh
-- 👀 I’m interested in mathematics and IT
-- 🌱 I’m currently learning cyber security
+- 👋 Hi, I’m Xuyen Linh Huynh, a second-year university student.
+- 🌱 I’m currently taking Bachelor of Cybersecurity in Macquarie University.
+- I'm interest in everything related to IT security, including some challenge such as CTF.
+- My contact detail: Through my [student email] (mailto:xuyenlinh.huynh@students.mq.edu.au)
 
 <!---
 xuyenlinhHuynh/xuyenlinhHuynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
