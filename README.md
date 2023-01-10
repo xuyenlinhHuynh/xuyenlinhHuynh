@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xuyen Linh Huynh, a second-year university student.
+- 👋 Hi, I’m Xuyen Linh Huynh, a third-year university student.
 - 🌱 I’m currently taking Bachelor of Cybersecurity in Macquarie University.
 - I'm interest in everything related to IT security, including some challenge such as CTF.
 - My contact detail: Through my student email - xuyenlinh.huynh@students.mq.edu.au
