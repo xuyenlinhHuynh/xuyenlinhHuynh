@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xuyen Linh Huynh, a third-year university student.
+- 👋 Hi, I’m Xuyen Linh (Laura) Huynh aka SpringRoll.
 - 🌱 I’m a graduate in Bachelor of Cybersecurity at Macquarie University.
 - I'm interest in everything related to IT security, including some challenges such as CTF.
 - My contact detail: Through my email - huynhxuyenlinh@gmail.com
